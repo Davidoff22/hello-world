@@ -1,0 +1,1 @@
+Ein einfacher Satz als erster Inhalt in dieser Datei.
